@@ -1,9 +1,8 @@
-<center>
+
 
 # 💫 About Me:
 🔭 Candaan saja.
 
-</center>
 
 
 <center>
