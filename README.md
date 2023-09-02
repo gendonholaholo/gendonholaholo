@@ -1,8 +1,10 @@
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shafadonia) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@emohmendem)
 
-# 📺 Tiktok
-![Thumbnail](https://github.com/gendonholaholo/assembly_vs_c_vs_python/blob/main/result/Screenshot%20from%202023-09-02%2021-02-19.png "kenapa bisa lebih cepat python, ada yang tau?")
+### 📺 Tiktok
+<div>
+  <a href="https://www.tiktok.com/@emohmendem/video/7210229059475852549?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841"><img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023319.png" width="200" height="260"alt="Photosop bayar broo, di citrakan saja..."></a>  <a href="https://www.tiktok.com/@emohmendem/video/7205504474528386330?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841"><img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023356.png" width="200" height="260"alt="Photosop bayar broo, di citrakan saja..."></a>  <a href="https://www.tiktok.com/@emohmendem/video/7203668840461438235?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841"><img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023437.png" width="200" height="260"alt="Photosop bayar broo, di citrakan saja..."></a></br><a href="https://www.tiktok.com/@emohmendem/video/7201502947996486938?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841"><img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023511.png" width="200" height="260"alt="Photosop bayar broo, di citrakan saja..."></a>  <a href="https://www.tiktok.com/@emohmendem/video/7200594698132589850?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841"><img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023558.png" width="200" height="260"alt="Photosop bayar broo, di citrakan saja..."></a>  <a href="https://www.tiktok.com/@emohmendem/video/7199945931578445083?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841"><img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023616.png" width="200" height="260"alt="Photosop bayar broo, di citrakan saja..."></a>
+</div>
 
 
 |💻 Tech Stack|📊 GitHub Stats|
