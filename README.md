@@ -1,38 +1,54 @@
-# Shafadonia G
-
-## Tentang Saya
-Pengembang perangkat lunak yang bersemangat dengan keahlian dalam berbagai bahasa pemrograman. Aktif berbagi konten kreatif melalui platform sosial media.
-
-## 🌐 Media Sosial
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shafadonia) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@emohmendem)
-
-## 📺 Konten TikTok Pilihan
 <div align="center">
-  <a href="https://www.tiktok.com/@emohmendem/video/7210229059475852549?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
-    <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023319.png" width="150" height="210" alt="TikTok Content 1">
-  </a>
-  <a href="https://www.tiktok.com/@emohmendem/video/7205504474528386330?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
-    <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023356.png" width="150" height="210" alt="TikTok Content 2">
-  </a>
-  <a href="https://www.tiktok.com/@emohmendem/video/7203668840461438235?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
-    <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023437.png" width="150" height="210" alt="TikTok Content 3">
-  </a>
+  <h1>👋 Halo, Saya Shafadonia G</h1>
+  <p>Pengembang Perangkat Lunak & Kreator Konten Digital Bersemangat!</p>
+  
+  <p>Selamat datang di sudut digital saya! Di sini Anda akan menemukan jejak perjalanan saya dalam coding dan kreasi konten.</p>
 </div>
 
+---
+
 <div align="center">
-  <a href="https://www.tiktok.com/@emohmendem/video/7201502947996486938?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
-    <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023511.png" width="150" height="210" alt="TikTok Content 4">
+  <h2>📺 Konten Kreatif Pilihan Saya di TikTok ✨</h2>
+  <p>Jelajahi video-video pilihan yang saya buat. Jangan lupa mampir ke profil TikTok lengkap saya!</p>
+  
+  [![TikTok](https://img.shields.io/badge/Kunjungi_TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@emohmendem)
+  
+  <br/><br/> <a href="https://www.tiktok.com/@emohmendem/video/7210229059475852549?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
+    <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023319.png" width="160" height="240" alt="TikTok Content 1">
+  </a> &nbsp;  <a href="https://www.tiktok.com/@emohmendem/video/7205504474528386330?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
+    <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023356.png" width="160" height="240" alt="TikTok Content 2">
+  </a> &nbsp;
+  <a href="https://www.tiktok.com/@emohmendem/video/7203668840461438235?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
+    <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023437.png" width="160" height="240" alt="TikTok Content 3">
   </a>
-  <a href="https://www.tiktok.com/@emohmendem/video/7200594698132589850?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
-    <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023558.png" width="150" height="210" alt="TikTok Content 5">
-  </a>
-  <a href="https://www.tiktok.com/@emohmendem/video/7199945931578445083?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
-    <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023616.png" width="150" height="210" alt="TikTok Content 6">
-  </a>
+  
+  <br/><br/>  <a href="https://www.tiktok.com/@emohmendem/video/7201502947996486938?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
+    <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023511.png" width="160" height="240" alt="TikTok Content 4">
+  </a> &nbsp;
+  <a href="https://www.tiktok.com/@emohmendem/video/7200594698132589850?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
+    <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023558.png" width="160" height="240" alt="TikTok Content 5">
+  </a> &nbsp;
+  <a href="https://www.tiktok.com/@emohmendem/video/7199945931578445083?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
+    <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023616.png" width="160" height="240" alt="TikTok Content 6">
+  </a>
+  
 </div>
 
-## 🚀 Keahlian Teknis
+---
+
+<div align="center">
+  <h2>🌐 Temukan Saya Online</h2>
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shafadonia) 
+  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@emohmendem) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gendonholaholo)
+  
+</div>
+
+---
+
+## 🛠️ Keahlian Teknis Saya
+
+Meskipun aktif di konten kreatif, saya juga seorang pengembang yang bersemangat:
 
 ### Bahasa Pemrograman
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -42,21 +58,35 @@ Pengembang perangkat lunak yang bersemangat dengan keahlian dalam berbagai bahas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-### Statistik GitHub
+---
+
+## 📊 Aktivitas GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gendonholaholo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats">
+  <a href="https://github.com/gendonholaholo">
+    <img src="https://github-readme-stats.vercel.app/api?username=gendonholaholo&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/gendonholaholo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gendonholaholo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  </a>
 </div>
 
-## 💭 Kutipan Pengembang Favorit
+---
+
+## ✨ Proyek Unggulan (Opsional)
+
+*(Anda bisa tetap menyertakan bagian ini untuk menunjukkan karya development Anda, meskipun prioritasnya adalah konten kreatif.)*
+
+-   **[Nama Proyek 1]**: Deskripsi singkat proyek ini. [Link ke Repo]
+-   **[Nama Proyek 2]**: Deskripsi singkat proyek ini. [Link ke Repo]
+
+---
+
+## 💬 Kutipan Pengembang Favorit
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </div>
-
-## 📫 Hubungi Saya
-Ingin berkolaborasi atau memiliki pertanyaan? Jangan ragu untuk menghubungi saya melalui:
-- Instagram: [@shafadonia](https://instagram.com/shafadonia)
-- TikTok: [@emohmendem](https://tiktok.com/@emohmendem)
-- GitHub: [@gendonholaholo](https://github.com/gendonholaholo)
 
 ---
 
