@@ -1,11 +1,8 @@
 <div align="center">
   <h1>👋 Halo, Saya Shafadonia G</h1>
   <p>Pengembang Perangkat Lunak & Kreator Konten Digital Bersemangat!</p>
-  
   <p>Selamat datang di sudut digital saya! Di sini Anda akan menemukan jejak perjalanan saya dalam coding dan kreasi konten.</p>
 </div>
-
----
 
 <div align="center">
   <h2>📺 Konten Kreatif Pilihan Saya di TikTok ✨</h2>
