@@ -7,7 +7,6 @@
 
 <div align="center">
   <h2>📺 Konten Kreatif Pilihan Saya di TikTok ✨</h2>
-  <p>Jelajahi video-video pilihan yang saya buat. Jangan lupa mampir ke profil TikTok lengkap saya!</p>
 
   [![TikTok](https://img.shields.io/badge/Kunjungi_TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@emohmendem)
 
