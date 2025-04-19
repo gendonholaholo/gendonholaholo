@@ -13,11 +13,6 @@ Pengembang perangkat lunak yang bersemangat dengan keahlian dalam berbagai bahas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-### Statistik GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gendonholaholo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats">
-</div>
-
 ## 🌐 Media Sosial
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shafadonia) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@emohmendem)
@@ -45,6 +40,11 @@ Pengembang perangkat lunak yang bersemangat dengan keahlian dalam berbagai bahas
   <a href="https://www.tiktok.com/@emohmendem/video/7199945931578445083?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
     <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023616.png" width="150" height="210" alt="TikTok Content 6">
   </a>
+</div>
+
+### Statistik GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gendonholaholo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats">
 </div>
 
 ## 💭 Kutipan Pengembang Favorit
