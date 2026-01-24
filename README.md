@@ -123,9 +123,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gendonholaholo&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=gendonholaholo&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gendonholaholo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gendonholaholo&layout=compact&theme=radical&hide_border=true&hide=powershell,html,shell,css" alt="Top Languages" />
 
 </div>
 
