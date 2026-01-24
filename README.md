@@ -48,26 +48,76 @@
 
 ## Tech Stack
 
+**Languages**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Assembly](https://img.shields.io/badge/assembly-%23545454.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Frameworks & Infrastructure**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ---
 
-## Proyek Unggulan
+## Professional Projects <img src="https://img.shields.io/badge/Private-grey?style=flat-square" alt="Private"/>
 
-| Repo | Bahasa | Deskripsi |
-|------|--------|-----------|
-| [Python-starter-kit-FastAPI-WhatsApp-AI-Chatbot](https://github.com/gendonholaholo/Python-starter-kit-FastAPI-WhatsApp-AI-Chatbot) | Python | Starter kit chatbot WhatsApp berbasis FastAPI & AI |
-| [todo-lens.nvim](https://github.com/gendonholaholo/todo-lens.nvim) | Lua | Plugin Neovim untuk tracking TODO/FIXME di codebase |
-| [MonkeyTypeCLI](https://github.com/gendonholaholo/MonkeyTypeCLI) | Python | Game mengetik ala MonkeyType dalam CLI |
-| [rust_tetris](https://github.com/gendonholaholo/rust_tetris) | Rust | Tetris klasik dibangun dengan Rust |
-| [rfid-topup-prototype](https://github.com/gendonholaholo/rfid-topup-prototype) | TypeScript | Prototipe sistem top-up berbasis RFID |
-| [fractal_asm_vs_c](https://github.com/gendonholaholo/fractal_asm_vs_c) | Assembly | Perbandingan performa rendering fractal: ASM vs C |
+### Oriskin AI Chatbot
+> Multi-tenant AI WhatsApp chatbot platform untuk 70+ lokasi klinik kecantikan di Indonesia
+
+- Arsitektur microservices: Gateway, AI Orchestrator, Knowledge Service, Clinic Service, Middleware
+- RAG (Retrieval-Augmented Generation) dengan pgvector untuk knowledge retrieval per-klinik
+- **Stack:** Python, FastAPI, PostgreSQL + pgvector, RabbitMQ, Redis, OpenAI GPT-4o-mini
+
+### Oriskin Face Biometric
+> Sistem biometrik wajah dengan 4 microservices untuk verifikasi identitas & analisis kulit
+
+| Service | Fungsi |
+|---------|--------|
+| Liveness Detection | Anti-spoofing via WebSocket challenge-response (blink/smile/head turn) |
+| Skin Analysis | 8 tipe analisis kulit (acne, pores, sebum, wrinkles, dll.) |
+| Face Recognition | Registrasi pelanggan & fraud prevention via ArcFace embeddings |
+
+- **Stack:** Python, FastAPI, Docker, PostgreSQL, RabbitMQ
+
+### WhatsApp KPI Automator
+> Platform monitoring & otomasi KPI tim CS WhatsApp dengan 12 microservices
+
+- Services: Analytics, API Gateway, Identity, KPI, Lead, Message, Notification, Scheduler, Rotator, Follow-up, WhatsApp Bridge, Config
+- Multi-database architecture (9 PostgreSQL databases)
+- **Stack:** Python, PostgreSQL, Redis, RabbitMQ, Docker
+
+### E-Commerce Scrapers Platform
+> Monorepo scraper multi-marketplace (Shopee, Tokopedia, Lazada) skala production
+
+- Arsitektur workspace dengan gRPC/Protobuf antar-service
+- Multiple scraping strategies: headless browser, API reverse-engineering, browser extension
+- **Stack:** Python, gRPC, Docker, uv workspace
+
+### Ngiklan Cepet
+> Platform generasi video iklan produk otomatis menggunakan AI
+
+- Upload foto produk, pilih dari 8 preset gaya visual, generate video iklan 8 detik
+- Powered by Google Veo3 (Vertex AI), optimized untuk TikTok/Reels/Shorts
+- **Stack:** Next.js, TypeScript, Prisma, Google Vertex AI, OAuth
+
+---
+
+## Open Source
+
+| Repo | Deskripsi |
+|------|-----------|
+| [Python-starter-kit-FastAPI-WhatsApp-AI-Chatbot](https://github.com/gendonholaholo/Python-starter-kit-FastAPI-WhatsApp-AI-Chatbot) | Starter kit chatbot WhatsApp berbasis FastAPI & AI |
+| [todo-lens.nvim](https://github.com/gendonholaholo/todo-lens.nvim) | Plugin Neovim untuk tracking TODO/FIXME di codebase |
+| [MonkeyTypeCLI](https://github.com/gendonholaholo/MonkeyTypeCLI) | Game mengetik ala MonkeyType dalam CLI |
+| [rust_tetris](https://github.com/gendonholaholo/rust_tetris) | Tetris klasik dibangun dengan Rust |
 
 ---
 
