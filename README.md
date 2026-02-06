@@ -88,21 +88,13 @@
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats-eight.vercel.app?user=gendonholaholo&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gendonholaholo&theme=radical" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gendonholaholo&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=gendonholaholo&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gendonholaholo&theme=radical" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gendonholaholo&theme=radical" alt="Top Languages" />
 
 </div>
 
