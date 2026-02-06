@@ -1,8 +1,6 @@
 <div align="center">
 
-# Shafadonia G
-
-**Developer & Content Creator**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Shafadonia+G;Developer+%26+Content+Creator" alt="Typing SVG" />
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shafadonia)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@emohmendem)
@@ -20,31 +18,48 @@
 
 <br/>
 
-<a href="https://www.tiktok.com/@emohmendem/video/7210229059475852549?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
-  <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023319.png" width="200" height="300" alt="TikTok Content 1">
-</a> &nbsp;&nbsp;
-<a href="https://www.tiktok.com/@emohmendem/video/7205504474528386330?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
-  <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023356.png" width="200" height="300" alt="TikTok Content 2">
-</a> &nbsp;&nbsp;
-<a href="https://www.tiktok.com/@emohmendem/video/7203668840461438235?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
-  <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023437.png" width="200" height="300" alt="TikTok Content 3">
-</a>
-
-<br/><br/>
-
-<a href="https://www.tiktok.com/@emohmendem/video/7201502947996486938?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
-  <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023511.png" width="200" height="300" alt="TikTok Content 4">
-</a> &nbsp;&nbsp;
-<a href="https://www.tiktok.com/@emohmendem/video/7200594698132589850?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
-  <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023558.png" width="200" height="300" alt="TikTok Content 5">
-</a> &nbsp;&nbsp;
-<a href="https://www.tiktok.com/@emohmendem/video/7199945931578445083?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
-  <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023616.png" width="200" height="300" alt="TikTok Content 6">
-</a>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://www.tiktok.com/@emohmendem/video/7210229059475852549?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
+        <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023319.png" width="100%" alt="TikTok Content 1">
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://www.tiktok.com/@emohmendem/video/7205504474528386330?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
+        <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023356.png" width="100%" alt="TikTok Content 2">
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://www.tiktok.com/@emohmendem/video/7203668840461438235?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
+        <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023437.png" width="100%" alt="TikTok Content 3">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://www.tiktok.com/@emohmendem/video/7201502947996486938?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
+        <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023511.png" width="100%" alt="TikTok Content 4">
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://www.tiktok.com/@emohmendem/video/7200594698132589850?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
+        <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023558.png" width="100%" alt="TikTok Content 5">
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://www.tiktok.com/@emohmendem/video/7199945931578445083?is_from_webapp=1&sender_device=pc&web_id=7205800741654627841">
+        <img src="https://github.com/gendonholaholo/gendonholaholo/blob/main/tmbnl/20230902_023616.png" width="100%" alt="TikTok Content 6">
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
+
+<div align="center">
 
 ## Tech Stack
 
@@ -64,6 +79,32 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=gendonholaholo&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gendonholaholo&theme=radical" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gendonholaholo&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -118,16 +159,6 @@
 | [todo-lens.nvim](https://github.com/gendonholaholo/todo-lens.nvim) | Plugin Neovim untuk tracking TODO/FIXME di codebase |
 | [MonkeyTypeCLI](https://github.com/gendonholaholo/MonkeyTypeCLI) | Game mengetik ala MonkeyType dalam CLI |
 | [rust_tetris](https://github.com/gendonholaholo/rust_tetris) | Tetris klasik dibangun dengan Rust |
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=gendonholaholo&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gendonholaholo&layout=compact&theme=radical&hide_border=true&hide=powershell,html,shell,css" alt="Top Languages" />
-
-</div>
 
 ---
 
